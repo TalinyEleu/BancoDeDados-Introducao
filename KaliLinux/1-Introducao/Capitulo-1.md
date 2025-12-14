@@ -18,8 +18,7 @@ Nossa parte prática será realizada em um **sistema operacional baseado em Linu
 -- Instalação do MySQL Server no KaliLinux: 
 
 ## Bases de dados (Databases)
-- Sistema Operacional: **Linux (ou baseado em Linux)**
-- Banco de Dados: a definir (ex.: MySQL, PostgreSQL ou SQLite)
+É um agrupamento lógico das informações de um determinado domínio.
 
 ## 🚀 Objetivo Final
 Ao final dos estudos, o aluno será capaz de:
