@@ -1,8 +1,6 @@
-# 📘 Estudos de SQL e Modelo Relacional
+# CAPÍTULO 1: INTRODUÇÃO
 
-Este repositório tem como objetivo apoiar os estudos de **SQL** e **Modelo Relacional**, abordando desde os **conceitos básicos** até a **aplicação prática** em um ambiente real.
-
-## 🎯 Objetivos
+## 🎯 SGBD (Sistema Gerenciador de Banco de Dados)
 - Compreender os fundamentos de **bancos de dados relacionais**
 - Estudar o **Modelo Relacional** (tabelas, atributos, chaves e relacionamentos)
 - Aprender os principais comandos **SQL**
