@@ -10,7 +10,7 @@ Sistemas especializados na persistência de dados que oferecem recursos mais sof
   - MariaDB
   - PostgreSQL
 
-## MySQL Server
+## MariaDB Server
 Nossa parte prática será realizada em um **sistema operacional baseado em Linux**, utilizando como SGBD o MariaDB Server, essa ferramenta de banco de dados é capaz de:
 - Criar tabelas
 - Inserir e consultar dados
