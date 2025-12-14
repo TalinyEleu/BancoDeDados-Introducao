@@ -1,31 +1,23 @@
 # CAPÍTULO 1: INTRODUÇÃO
 
-## 🎯 SGBD (Sistema Gerenciador de Banco de Dados)
-- Compreender os fundamentos de **bancos de dados relacionais**
-- Estudar o **Modelo Relacional** (tabelas, atributos, chaves e relacionamentos)
-- Aprender os principais comandos **SQL**
-- Aplicar os conhecimentos por meio de **atividades práticas**
+## 🎯 SGBD (Sistemas Gerenciadores de Banco de Dados)
+Sistemas especializados na persistência de dados que oferecem recursos mais sofisticados e eficientes. Um sistema gerenciador de banco de dados é capaz de gerenciar informações de diversos sistemas ao mesmo tempo.
 
-## 📚 Conteúdos Abordados
-- Conceitos básicos de Banco de Dados
-- Modelo Relacional
-  - Entidades e atributos
-  - Chave primária e chave estrangeira
-  - Relacionamentos
-- SQL Básico
-  - `SELECT`
-  - `INSERT`
-  - `UPDATE`
-  - `DELETE`
-  - `WHERE`, `ORDER BY`, `GROUP BY`
+- Lista de SGBDs mais utilizados:
+  - MySQL Server
+  - Oracle Database
+  - SQL Server
+  - PostgreSQL
 
-## 🧪 Prática
-A parte prática será realizada em um **sistema operacional baseado em Linux**, utilizando ferramentas de banco de dados para:
+## MySQL Server
+Nossa parte prática será realizada em um **sistema operacional baseado em Linux**, utilizando como SGBD o MySQL Server, essa ferramenta de banco de dados é capaz de:
 - Criar tabelas
 - Inserir e consultar dados
 - Manipular informações usando comandos SQL
 
-## 🐧 Ambiente
+-- Instalação do MySQL Server no KaliLinux: 
+
+## Bases de dados (Databases)
 - Sistema Operacional: **Linux (ou baseado em Linux)**
 - Banco de Dados: a definir (ex.: MySQL, PostgreSQL ou SQLite)
 
