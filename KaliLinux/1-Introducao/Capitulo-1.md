@@ -20,10 +20,7 @@ Nossa parte prática será realizada em um **sistema operacional baseado em Linu
 ## Bases de dados (Databases)
 É um agrupamento lógico das informações de um determinado domínio.
 
-## 🚀 Objetivo Final
-Ao final dos estudos, o aluno será capaz de:
-- Entender a estrutura de um banco de dados relacional
-- Criar e manipular dados usando SQL
+## Criando uma base de dados no MySQL Server
 - Executar consultas básicas em um ambiente Linux
 
 ---
