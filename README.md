@@ -32,7 +32,7 @@ A parte prática será realizada em um **sistema operacional baseado em Linux**,
 - Banco de Dados: a definir (ex.: MySQL, PostgreSQL ou SQLite)
 
 ## 🚀 Objetivo Final
-Ao final dos estudos, o aluno será capaz de:
+Ao final dos estudos, esperamos ser capazes de:
 - Entender a estrutura de um banco de dados relacional
 - Criar e manipular dados usando SQL
 - Executar consultas básicas em um ambiente Linux
