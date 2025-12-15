@@ -6,9 +6,9 @@ Surgiu como um "fork" (derivação) do MySQL para garantir que o banco de dados 
 
 - Em resumo, ele é:
 
---Open Source
---Um fork do MySQL (criado pelos mesmos desenvolvedores originais)
---Muito usado em aplicações web, sistemas acadêmicos e corporativos
+    -Open Source
+    -Um fork do MySQL (criado pelos mesmos desenvolvedores originais)
+    -Muito usado em aplicações web, sistemas acadêmicos e corporativos
  
 ## Conceitos básicos
 
