@@ -16,8 +16,6 @@ Nossa parte prática será realizada em um **sistema operacional baseado em Linu
 - Inserir e consultar dados
 - Manipular informações usando comandos SQL
 
--- Instalação do MySQL Server no KaliLinux: 
-
 ## Bases de dados (Databases)
 É um agrupamento lógico das informações de um determinado domínio.
 
