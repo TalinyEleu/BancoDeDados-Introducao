@@ -12,7 +12,47 @@ Surgiu como um "fork" (derivação) do MySQL para garantir que o banco de dados 
 ## Conceitos básicos
 
 ### Banco de dados
+
 Um banco de dados é um conjunto de informações organizadas.
+
 ```
 CREATE DATABASE escola;
 ```
+
+### Tabelas
+
+As tabelas armazenam os dados em linhas e colunas.
+
+```
+CREATE TABLE alunos (
+  id INT PRIMARY KEY,
+  nome VARCHAR(100),
+  email VARCHAR(100)
+);
+```
+
+### Registros
+
+Cada linha da tabela é um registro (um aluno, por exemplo).
+
+```
+INSERT INTO alunos VALUES (1, 'Ana', 'ana@email.com');
+```
+
+### Consultas (SELECT)
+
+Usadas para buscar dados.
+
+```
+SELECT * FROM alunos;
+```
+
+## SQL no MariaDB
+
+O MariaDB utiliza SQL (Structured Query Language) para:
+
+- CREATE → criar
+- INSERT → inserir
+- SELECT → consultar
+- UPDATE → atualizar
+- DELETE → remover
