@@ -56,3 +56,9 @@ O MariaDB utiliza SQL (Structured Query Language) para:
 - SELECT → consultar
 - UPDATE → atualizar
 - DELETE → remover
+
+```
+SELECT nome FROM alunos WHERE id = 1;
+```
+
+- [Instalação do MariaDB](Instalacao-MariaDB.md) 
