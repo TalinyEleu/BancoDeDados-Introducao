@@ -13,4 +13,6 @@ Surgiu como um "fork" (derivação) do MySQL para garantir que o banco de dados 
 
 ### Banco de dados
 Um banco de dados é um conjunto de informações organizadas.
-´CREATE DATABASE escola;´
+```
+CREATE DATABASE escola;
+```
