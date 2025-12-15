@@ -62,3 +62,6 @@ SELECT nome FROM alunos WHERE id = 1;
 ```
 
 - [Instalação do MariaDB](Instalacao-MariaDB.md) 
+
+---
+📌 Este material é destinado a fins educacionais e introdutórios.
