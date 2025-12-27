@@ -60,8 +60,25 @@ Alguns detalhes sobre o script:
 - Após definir a senha, aceitaremos todas as recomendações de segurança, o que inclui:
   - Remoção de usuários anônimos.
   - Rejeição de login remoto do root.
-  - Remoção do banco de dados de teste.
+  - Remoção do banco de dados de teste.  
   - Recarregará as tabelas de privilégio.
+
+#### Passo 3 - Testando a instalação
+Vamos verificar a instalação e obter informações a respeito dela nos conectando à ferramenta ```mariadb-admin```, em caso de banco de dados com o mysql-server, seria ```mysqladmin```. Neste caso, iremos usar o seguinte comando:
+
+```
+$ mariadb-admin -u root -p version
+```
+
+onde:
+- -u root: conectamos ao MariaDB como **root**.
+- -p: solicitação da senha.
+- version: retorna a versão do servidor.
+
+![Testando](imagens/3.png)
+
+## Em resumo:
+Neste guia, você instalou o MariaDB para agir como um servidor SQL. Durante processo de instalação, você também protegeu o servidor. De maneira opcional, você também criou, separadamente, um usuário administrativo autenticado por senha.
 
 ---
 📌 Este material é destinado a fins educacionais e introdutórios.
