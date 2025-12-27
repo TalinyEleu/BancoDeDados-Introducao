@@ -23,7 +23,7 @@ Nossa parte prática será realizada em um **sistema operacional baseado em Linu
 - Executar consultas básicas em um ambiente Linux
 
 ## Links:
-- [Instalação do MariaDB no Kali Linux](Instalacao-MariaDB.md)
+- [Instalação do MariaDB no CentOS](Instalacao-MariaDB.md)
 
 ---
 📌 Este material é destinado a fins educacionais e introdutórios.
