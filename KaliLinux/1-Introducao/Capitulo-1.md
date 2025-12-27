@@ -22,6 +22,8 @@ Nossa parte prática será realizada em um **sistema operacional baseado em Linu
 ## Criando uma base de dados no MariaDB Server
 - Executar consultas básicas em um ambiente Linux
 
+
+
 ## Links:
 - [Instalação do MariaDB no Kali Linux](Instalacao-MariaDB.md)
 

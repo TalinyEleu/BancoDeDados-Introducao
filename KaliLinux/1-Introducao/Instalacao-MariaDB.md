@@ -37,6 +37,9 @@ Após isso, verifique o status do serviço:
 $ sudo systemctl status mariadb
 ```
 
+![Status MariaDB](/imagens/1.png)
+
+
 
 ---
 📌 Este material é destinado a fins educacionais e introdutórios.
