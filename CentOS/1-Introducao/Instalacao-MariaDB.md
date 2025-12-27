@@ -25,7 +25,7 @@ ou ...
 $ sudo yum install mariadb-server
 ```
 
-Assim que a instalação terminar, inicie o serviço com o _systemctl_:
+Assim que a instalação terminar, inicie o serviço com o ```systemctl```:
 
 ```
 $ sudo systemctl start mariadb
@@ -39,6 +39,13 @@ $ sudo systemctl status mariadb
 
 ![Status MariaDB](imagens/1.png)
 
+Em seguida, vamos usar comando ```systemctl enable``` para conferir se o MariaDB é iniciado ao inicializar o sistema:
+
+```
+$ sudo systemctl enable mariadb
+```
+
+![Verificando MariaDB](imagens/2.png)
 
 
 ---
