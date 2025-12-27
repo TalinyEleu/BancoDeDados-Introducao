@@ -53,6 +53,16 @@ O MariaDB inclui um script de segurança para alterar algumas das opções padr�
 ```
 $ sudo mariadb-secure-installation
 ```
+
+Alguns detalhes sobre o script:
+- O primeiro passo solicita a senha **root**, que não foi definida ainda. Desta forma, faça como o script recomenda e pressione ```ENTER```.
+- Em seguida, será solicitado que você defina a senha root (usuário root do banco de dados).
+- Após definir a senha, aceitaremos todas as recomendações de segurança, o que inclui:
+  - Remoção de usuários anônimos.
+  - Rejeição de login remoto do root.
+  - Remoção do banco de dados de teste.
+  - Recarregará as tabelas de privilégio.
+
 ---
 📌 Este material é destinado a fins educacionais e introdutórios.
 
