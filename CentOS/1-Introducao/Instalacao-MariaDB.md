@@ -47,7 +47,12 @@ $ sudo systemctl enable mariadb
 
 ![Verificando MariaDB](imagens/2.png)
 
+#### Passo 2 - Protegendo o servidor MariaDB
+O MariaDB inclui um script de segurança para alterar algumas das opções padrão menos seguras para os logins de root remotos e usuários de amostra. O comando a seguir executa o script de segurança:
 
+```
+$ sudo mariadb-secure-installation
+```
 ---
 📌 Este material é destinado a fins educacionais e introdutórios.
 
