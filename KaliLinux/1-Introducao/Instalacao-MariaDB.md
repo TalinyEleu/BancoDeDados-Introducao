@@ -25,6 +25,18 @@ ou ...
 $ sudo yum install mariadb-server
 ```
 
+Assim que a instalação terminar, inicie o serviço com o _systemctl_:
+
+```
+$ sudo systemctl start mariadb
+```
+
+Após isso, verifique o status do serviço:
+
+```
+$ sudo systemctl status mariadb
+```
+
 
 ---
 📌 Este material é destinado a fins educacionais e introdutórios.
