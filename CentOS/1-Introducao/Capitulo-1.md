@@ -54,7 +54,38 @@ MariaDB[(none)]> USE livraria;
 
 #### Passo 2 - Criando a tabela
 
+![Exemplo2](imagens/6.png)
 
+```
+MariaDB [livraria]> CREATE TABLE Livros (
+    -> titulo VARCHAR(255) NOT NULL,
+    -> preco DOUBLE
+    -> );
+```
+
+As tabelas de uma base de dados podem ser listadas através do comando **SHOW TABLES**, antes de usar esse comando, devemos selecionar a base de dados utilizando o comando **USE**.
+
+![Exemplo3](imagens/7.png)
+
+Se a tabela não for mais desejada, ela pode ser removida através do comando **DROP TABLE**.
+
+Também podemos alterar a estrutura de uma tabela com o comando **ALTER TABLE**, abaixo um exemplo:
+
+
+- Alterando o nome da tabela:
+```
+MariaDB [livraria]> ALTER TABLE Livro RENAME Livros;
+```
+- Adicionando uma coluna:
+```
+MariaDB [livraria]> ALTER TABLE Livros ADD paginas INTEGER;
+```
+- Excluindo uma coluna:
+```
+MariaDB [livraria]> ALTER TABLE Livros DROP COLUMN paginas;
+```
+
+## CRUD
 
 
 ## Links:
